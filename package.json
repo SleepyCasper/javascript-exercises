@@ -27,7 +27,7 @@
     "node": ">=18.0.0"
   },
   "scripts": {
-    "test": "jest",
+    "test_05": "jest --testPathPattern ./05_joinStrings",
     "generate": "plop"
   },
   "eslintConfig": {
